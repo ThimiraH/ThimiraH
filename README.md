@@ -3,6 +3,8 @@
 </p>
 <h3 align="center">A Full-stack Software Engineering Student from Sri Lanka</h3>
 
+---
+
 <br>
 <p align='center'>
 <img src="https://komarev.com/ghpvc/?username=thimirah">&nbsp;&nbsp;&nbsp;&nbsp;
@@ -61,5 +63,6 @@
     </td>
   </tr>
 </table>
+
 
 
