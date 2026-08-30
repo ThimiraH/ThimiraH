@@ -1,0 +1,41 @@
+<svg width="480" height="200" viewBox="0 0 480 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Most used languages card">
+<defs>
+
+    <clipPath id="langsFrame"><rect width="480" height="200" rx="16"/></clipPath>
+    <linearGradient id="bgGradL" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#050505"/>
+      <stop offset="100%" stop-color="#160707"/>
+    </linearGradient>
+    <style>
+      text { font-family: 'JetBrains Mono','Fira Code',Consolas,monospace; }
+      .title { fill: #f5f5f5; font-size: 16px; font-weight: 700; }
+      .label { fill: #f5f5f5; font-size: 12.5px; font-weight: 600; }
+      .pct { fill: #9a9a9a; font-size: 12px; }
+    </style>
+    
+</defs>
+<g clip-path="url(#langsFrame)">
+<rect width="480" height="200" fill="url(#bgGradL)"/>
+<rect x="0.5" y="0.5" width="479" height="199" rx="15" fill="none" stroke="#2a2a2a"/>
+<text x="20" y="30" class="title">Most Used Languages</text>
+<rect x="20" y="46" width="440" height="16" rx="8" fill="#1a1a1a"/>
+<clipPath id="segClip0"><rect x="20" y="46" width="440" height="16" rx="8"/></clipPath>
+<g clip-path="url(#segClip0)"><rect x="20.0" y="46" width="0" height="16" fill="#f1e05a"><animate attributeName="width" from="0" to="140.8" begin="0.30s" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/></rect></g>
+<clipPath id="segClip1"><rect x="20" y="46" width="440" height="16" rx="8"/></clipPath>
+<g clip-path="url(#segClip1)"><rect x="160.8" y="46" width="0" height="16" fill="#e10a1f"><animate attributeName="width" from="0" to="105.6" begin="0.42s" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/></rect></g>
+<clipPath id="segClip2"><rect x="20" y="46" width="440" height="16" rx="8"/></clipPath>
+<g clip-path="url(#segClip2)"><rect x="266.4" y="46" width="0" height="16" fill="#8892bf"><animate attributeName="width" from="0" to="70.4" begin="0.54s" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/></rect></g>
+<clipPath id="segClip3"><rect x="20" y="46" width="440" height="16" rx="8"/></clipPath>
+<g clip-path="url(#segClip3)"><rect x="336.8" y="46" width="0" height="16" fill="#e34c26"><animate attributeName="width" from="0" to="52.8" begin="0.66s" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/></rect></g>
+<clipPath id="segClip4"><rect x="20" y="46" width="440" height="16" rx="8"/></clipPath>
+<g clip-path="url(#segClip4)"><rect x="389.6" y="46" width="0" height="16" fill="#563d7c"><animate attributeName="width" from="0" to="39.6" begin="0.78s" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/></rect></g>
+<clipPath id="segClip5"><rect x="20" y="46" width="440" height="16" rx="8"/></clipPath>
+<g clip-path="url(#segClip5)"><rect x="429.2" y="46" width="0" height="16" fill="#8f8f8f"><animate attributeName="width" from="0" to="30.8" begin="0.90s" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/></rect></g>
+<g opacity="0"><animate attributeName="opacity" values="0;1" begin="0.90s" dur="0.5s" fill="freeze"/><circle cx="25.0" cy="92" r="5" fill="#f1e05a"/><text x="38.0" y="96" class="label">JavaScript</text><text x="226.0" y="96" text-anchor="end" class="pct">32.0%</text></g>
+<g opacity="0"><animate attributeName="opacity" values="0;1" begin="1.00s" dur="0.5s" fill="freeze"/><circle cx="245.0" cy="92" r="5" fill="#e10a1f"/><text x="258.0" y="96" class="label">Java</text><text x="446.0" y="96" text-anchor="end" class="pct">24.0%</text></g>
+<g opacity="0"><animate attributeName="opacity" values="0;1" begin="1.10s" dur="0.5s" fill="freeze"/><circle cx="25.0" cy="120" r="5" fill="#8892bf"/><text x="38.0" y="124" class="label">PHP</text><text x="226.0" y="124" text-anchor="end" class="pct">16.0%</text></g>
+<g opacity="0"><animate attributeName="opacity" values="0;1" begin="1.20s" dur="0.5s" fill="freeze"/><circle cx="245.0" cy="120" r="5" fill="#e34c26"/><text x="258.0" y="124" class="label">HTML</text><text x="446.0" y="124" text-anchor="end" class="pct">12.0%</text></g>
+<g opacity="0"><animate attributeName="opacity" values="0;1" begin="1.30s" dur="0.5s" fill="freeze"/><circle cx="25.0" cy="148" r="5" fill="#563d7c"/><text x="38.0" y="152" class="label">CSS</text><text x="226.0" y="152" text-anchor="end" class="pct">9.0%</text></g>
+<g opacity="0"><animate attributeName="opacity" values="0;1" begin="1.40s" dur="0.5s" fill="freeze"/><circle cx="245.0" cy="148" r="5" fill="#8f8f8f"/><text x="258.0" y="152" class="label">Other</text><text x="446.0" y="152" text-anchor="end" class="pct">7.0%</text></g>
+</g>
+</svg>

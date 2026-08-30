@@ -1,0 +1,86 @@
+<svg width="800" height="190" viewBox="0 0 800 190" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="GitHub trophies card">
+<defs>
+
+    <clipPath id="trophyFrame"><rect width="800" height="190" rx="16"/></clipPath>
+    <linearGradient id="bgGradT" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#050505"/>
+      <stop offset="100%" stop-color="#160707"/>
+    </linearGradient>
+    <linearGradient id="shineGradT" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="45%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.35"/>
+      <stop offset="55%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glowT" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      text { font-family: 'JetBrains Mono','Fira Code',Consolas,monospace; }
+      .name { fill: #9a9a9a; font-size: 12px; }
+      .rank { font-size: 20px; font-weight: 800; }
+    </style>
+    
+</defs>
+<g clip-path="url(#trophyFrame)">
+<rect width="800" height="190" fill="url(#bgGradT)"/>
+<rect x="0.5" y="0.5" width="799" height="189" rx="15" fill="none" stroke="#2a2a2a"/>
+<g opacity="0" transform="translate(24.0,24) scale(0.6)" transform-origin="56.0 75.0">
+<animateTransform attributeName="transform" type="translate" values="24.0,54.0;24.0,24.0" begin="0.25s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.3 0.1 0.3 1" additive="sum"/>
+<animateTransform attributeName="transform" type="scale" values="0.5;1.12;1" keyTimes="0;0.7;1" begin="0.25s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.3 0.1 0.3 1;0.3 0.1 0.3 1" additive="sum"/>
+<animate attributeName="opacity" values="0;1" begin="0.25s" dur="0.4s" fill="freeze"/>
+<rect width="112.0" height="150" rx="12" fill="#0f0f0f" stroke="#ff2b3a" stroke-opacity="0.55" stroke-width="1.4"/>
+<path d="M33.599999999999994 20.4 h44.800000000000004 v9.600000000000001 c0 16.0 -9.600000000000001 25.6 -22.400000000000002 25.6 c-12.8 0 -22.400000000000002 -9.600000000000001 -22.400000000000002 -25.6 z M49.6 55.6 h12.8 v12.8 h-12.8 z M40.0 68.4 h32.0 v6.4 h-32.0 z M33.599999999999994 23.599999999999998 c-9.600000000000001 0 -14.4 6.4 -14.4 14.4 c0 6.4 4.800000000000001 11.200000000000001 9.600000000000001 12.8 M78.4 23.599999999999998 c9.600000000000001 0 14.4 6.4 14.4 14.4 c0 6.4 -4.800000000000001 11.200000000000001 -9.600000000000001 12.8" fill="none" stroke="#ff2b3a" stroke-width="2.4" stroke-linejoin="round" filter="url(#glowT)"/>
+<text x="56.0" y="98" text-anchor="middle" class="rank" fill="#ff2b3a" filter="url(#glowT)">SSS<animate attributeName="opacity" values="0.6;1;0.6" dur="2.4s" begin="0.85s" repeatCount="indefinite"/></text>
+<text x="56.0" y="126" text-anchor="middle" class="name">Commits</text>
+</g>
+<g opacity="0" transform="translate(152.0,24) scale(0.6)" transform-origin="56.0 75.0">
+<animateTransform attributeName="transform" type="translate" values="152.0,54.0;152.0,24.0" begin="0.40s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.3 0.1 0.3 1" additive="sum"/>
+<animateTransform attributeName="transform" type="scale" values="0.5;1.12;1" keyTimes="0;0.7;1" begin="0.40s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.3 0.1 0.3 1;0.3 0.1 0.3 1" additive="sum"/>
+<animate attributeName="opacity" values="0;1" begin="0.40s" dur="0.4s" fill="freeze"/>
+<rect width="112.0" height="150" rx="12" fill="#0f0f0f" stroke="#ff7b3a" stroke-opacity="0.55" stroke-width="1.4"/>
+<path d="M33.599999999999994 20.4 h44.800000000000004 v9.600000000000001 c0 16.0 -9.600000000000001 25.6 -22.400000000000002 25.6 c-12.8 0 -22.400000000000002 -9.600000000000001 -22.400000000000002 -25.6 z M49.6 55.6 h12.8 v12.8 h-12.8 z M40.0 68.4 h32.0 v6.4 h-32.0 z M33.599999999999994 23.599999999999998 c-9.600000000000001 0 -14.4 6.4 -14.4 14.4 c0 6.4 4.800000000000001 11.200000000000001 9.600000000000001 12.8 M78.4 23.599999999999998 c9.600000000000001 0 14.4 6.4 14.4 14.4 c0 6.4 -4.800000000000001 11.200000000000001 -9.600000000000001 12.8" fill="none" stroke="#ff7b3a" stroke-width="2.4" stroke-linejoin="round" filter="url(#glowT)"/>
+<text x="56.0" y="98" text-anchor="middle" class="rank" fill="#ff7b3a" filter="url(#glowT)">S<animate attributeName="opacity" values="0.6;1;0.6" dur="2.4s" begin="1.00s" repeatCount="indefinite"/></text>
+<text x="56.0" y="126" text-anchor="middle" class="name">Stars</text>
+</g>
+<g opacity="0" transform="translate(280.0,24) scale(0.6)" transform-origin="56.0 75.0">
+<animateTransform attributeName="transform" type="translate" values="280.0,54.0;280.0,24.0" begin="0.55s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.3 0.1 0.3 1" additive="sum"/>
+<animateTransform attributeName="transform" type="scale" values="0.5;1.12;1" keyTimes="0;0.7;1" begin="0.55s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.3 0.1 0.3 1;0.3 0.1 0.3 1" additive="sum"/>
+<animate attributeName="opacity" values="0;1" begin="0.55s" dur="0.4s" fill="freeze"/>
+<rect width="112.0" height="150" rx="12" fill="#0f0f0f" stroke="#e6c34a" stroke-opacity="0.55" stroke-width="1.4"/>
+<path d="M33.599999999999994 20.4 h44.800000000000004 v9.600000000000001 c0 16.0 -9.600000000000001 25.6 -22.400000000000002 25.6 c-12.8 0 -22.400000000000002 -9.600000000000001 -22.400000000000002 -25.6 z M49.6 55.6 h12.8 v12.8 h-12.8 z M40.0 68.4 h32.0 v6.4 h-32.0 z M33.599999999999994 23.599999999999998 c-9.600000000000001 0 -14.4 6.4 -14.4 14.4 c0 6.4 4.800000000000001 11.200000000000001 9.600000000000001 12.8 M78.4 23.599999999999998 c9.600000000000001 0 14.4 6.4 14.4 14.4 c0 6.4 -4.800000000000001 11.200000000000001 -9.600000000000001 12.8" fill="none" stroke="#e6c34a" stroke-width="2.4" stroke-linejoin="round" filter="url(#glowT)"/>
+<text x="56.0" y="98" text-anchor="middle" class="rank" fill="#e6c34a" filter="url(#glowT)">A+<animate attributeName="opacity" values="0.6;1;0.6" dur="2.4s" begin="1.15s" repeatCount="indefinite"/></text>
+<text x="56.0" y="126" text-anchor="middle" class="name">PRs</text>
+</g>
+<g opacity="0" transform="translate(408.0,24) scale(0.6)" transform-origin="56.0 75.0">
+<animateTransform attributeName="transform" type="translate" values="408.0,54.0;408.0,24.0" begin="0.70s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.3 0.1 0.3 1" additive="sum"/>
+<animateTransform attributeName="transform" type="scale" values="0.5;1.12;1" keyTimes="0;0.7;1" begin="0.70s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.3 0.1 0.3 1;0.3 0.1 0.3 1" additive="sum"/>
+<animate attributeName="opacity" values="0;1" begin="0.70s" dur="0.4s" fill="freeze"/>
+<rect width="112.0" height="150" rx="12" fill="#0f0f0f" stroke="#4ae67e" stroke-opacity="0.55" stroke-width="1.4"/>
+<path d="M33.599999999999994 20.4 h44.800000000000004 v9.600000000000001 c0 16.0 -9.600000000000001 25.6 -22.400000000000002 25.6 c-12.8 0 -22.400000000000002 -9.600000000000001 -22.400000000000002 -25.6 z M49.6 55.6 h12.8 v12.8 h-12.8 z M40.0 68.4 h32.0 v6.4 h-32.0 z M33.599999999999994 23.599999999999998 c-9.600000000000001 0 -14.4 6.4 -14.4 14.4 c0 6.4 4.800000000000001 11.200000000000001 9.600000000000001 12.8 M78.4 23.599999999999998 c9.600000000000001 0 14.4 6.4 14.4 14.4 c0 6.4 -4.800000000000001 11.200000000000001 -9.600000000000001 12.8" fill="none" stroke="#4ae67e" stroke-width="2.4" stroke-linejoin="round" filter="url(#glowT)"/>
+<text x="56.0" y="98" text-anchor="middle" class="rank" fill="#4ae67e" filter="url(#glowT)">A<animate attributeName="opacity" values="0.6;1;0.6" dur="2.4s" begin="1.30s" repeatCount="indefinite"/></text>
+<text x="56.0" y="126" text-anchor="middle" class="name">Issues</text>
+</g>
+<g opacity="0" transform="translate(536.0,24) scale(0.6)" transform-origin="56.0 75.0">
+<animateTransform attributeName="transform" type="translate" values="536.0,54.0;536.0,24.0" begin="0.85s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.3 0.1 0.3 1" additive="sum"/>
+<animateTransform attributeName="transform" type="scale" values="0.5;1.12;1" keyTimes="0;0.7;1" begin="0.85s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.3 0.1 0.3 1;0.3 0.1 0.3 1" additive="sum"/>
+<animate attributeName="opacity" values="0;1" begin="0.85s" dur="0.4s" fill="freeze"/>
+<rect width="112.0" height="150" rx="12" fill="#0f0f0f" stroke="#4ac9e6" stroke-opacity="0.55" stroke-width="1.4"/>
+<path d="M33.599999999999994 20.4 h44.800000000000004 v9.600000000000001 c0 16.0 -9.600000000000001 25.6 -22.400000000000002 25.6 c-12.8 0 -22.400000000000002 -9.600000000000001 -22.400000000000002 -25.6 z M49.6 55.6 h12.8 v12.8 h-12.8 z M40.0 68.4 h32.0 v6.4 h-32.0 z M33.599999999999994 23.599999999999998 c-9.600000000000001 0 -14.4 6.4 -14.4 14.4 c0 6.4 4.800000000000001 11.200000000000001 9.600000000000001 12.8 M78.4 23.599999999999998 c9.600000000000001 0 14.4 6.4 14.4 14.4 c0 6.4 -4.800000000000001 11.200000000000001 -9.600000000000001 12.8" fill="none" stroke="#4ac9e6" stroke-width="2.4" stroke-linejoin="round" filter="url(#glowT)"/>
+<text x="56.0" y="98" text-anchor="middle" class="rank" fill="#4ac9e6" filter="url(#glowT)">B+<animate attributeName="opacity" values="0.6;1;0.6" dur="2.4s" begin="1.45s" repeatCount="indefinite"/></text>
+<text x="56.0" y="126" text-anchor="middle" class="name">Followers</text>
+</g>
+<g opacity="0" transform="translate(664.0,24) scale(0.6)" transform-origin="56.0 75.0">
+<animateTransform attributeName="transform" type="translate" values="664.0,54.0;664.0,24.0" begin="1.00s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.3 0.1 0.3 1" additive="sum"/>
+<animateTransform attributeName="transform" type="scale" values="0.5;1.12;1" keyTimes="0;0.7;1" begin="1.00s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.3 0.1 0.3 1;0.3 0.1 0.3 1" additive="sum"/>
+<animate attributeName="opacity" values="0;1" begin="1.00s" dur="0.4s" fill="freeze"/>
+<rect width="112.0" height="150" rx="12" fill="#0f0f0f" stroke="#c04ae6" stroke-opacity="0.55" stroke-width="1.4"/>
+<path d="M33.599999999999994 20.4 h44.800000000000004 v9.600000000000001 c0 16.0 -9.600000000000001 25.6 -22.400000000000002 25.6 c-12.8 0 -22.400000000000002 -9.600000000000001 -22.400000000000002 -25.6 z M49.6 55.6 h12.8 v12.8 h-12.8 z M40.0 68.4 h32.0 v6.4 h-32.0 z M33.599999999999994 23.599999999999998 c-9.600000000000001 0 -14.4 6.4 -14.4 14.4 c0 6.4 4.800000000000001 11.200000000000001 9.600000000000001 12.8 M78.4 23.599999999999998 c9.600000000000001 0 14.4 6.4 14.4 14.4 c0 6.4 -4.800000000000001 11.200000000000001 -9.600000000000001 12.8" fill="none" stroke="#c04ae6" stroke-width="2.4" stroke-linejoin="round" filter="url(#glowT)"/>
+<text x="56.0" y="98" text-anchor="middle" class="rank" fill="#c04ae6" filter="url(#glowT)">A<animate attributeName="opacity" values="0.6;1;0.6" dur="2.4s" begin="1.60s" repeatCount="indefinite"/></text>
+<text x="56.0" y="126" text-anchor="middle" class="name">Repos</text>
+</g>
+<rect x="-200" y="0" width="160" height="190" fill="url(#shineGradT)" transform="skewX(-16)"><animate attributeName="x" values="-200;880" dur="3.6s" begin="2.2s" repeatCount="indefinite"/></rect>
+</g>
+</svg>
