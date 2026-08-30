@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThimiraH/ThimiraH/main/assets/banner.svg?v=1">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ThimiraH/ThimiraH/main/assets/banner-light.svg?v=1">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThimiraH/ThimiraH/main/banner.svg?v=1">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ThimiraH/ThimiraH/main/banner-light.svg?v=1">
   <img src="https://raw.githubusercontent.com/ThimiraH/ThimiraH/main/assets/banner.svg?v=1" alt="Thimira Hiruditha — Java Developer / Software Engineer" width="100%">
 </picture>
 
