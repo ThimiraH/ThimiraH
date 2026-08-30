@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/ThimiraH/ThimiraH/main/assets/lanyard.svg?v=1" alt="Thimira Hiruditha ID badge" width="220">
+<img src="https://raw.githubusercontent.com/ThimiraH/ThimiraH/main/lanyard.svg?v=1" alt="Thimira Hiruditha ID badge" width="220">
 
 <br/><br/>
 
@@ -55,12 +55,12 @@
 ## GitHub Stats
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/ThimiraH/ThimiraH/main/assets/stats.svg?v=1" alt="Thimira's GitHub stats" width="49%">
-<img src="https://raw.githubusercontent.com/ThimiraH/ThimiraH/main/assets/langs.svg?v=1" alt="Most used languages" width="49%">
+<img src="https://raw.githubusercontent.com/ThimiraH/ThimiraH/main/stats.svg?v=1" alt="Thimira's GitHub stats" width="49%">
+<img src="https://raw.githubusercontent.com/ThimiraH/ThimiraH/main/langs.svg?v=1" alt="Most used languages" width="49%">
 </div>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/ThimiraH/ThimiraH/main/assets/trophies.svg?v=1" alt="GitHub trophies" width="100%">
+<img src="https://raw.githubusercontent.com/ThimiraH/ThimiraH/main/trophies.svg?v=1" alt="GitHub trophies" width="100%">
 </div>
 
 <br/>
