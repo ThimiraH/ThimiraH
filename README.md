@@ -1,113 +1,65 @@
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=3ABFEF&center=true&vCenter=true&width=600&lines=👋+Hi+There!+I'm+Thimira+Hiruditha;💻+Software+Engineering+Student;🌐+Web+Developer+%7C+Full+Stack+Developer" alt="Typing SVG" />
+</p>
+<h3 align="center">A Full-stack Software Engineering Student from Sri Lanka</h3>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThimiraH/ThimiraH/main/banner.svg?v=1">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ThimiraH/ThimiraH/main/banner-light.svg?v=1">
-  <img src="https://raw.githubusercontent.com/ThimiraH/ThimiraH/main/assets/banner.svg?v=1" alt="Thimira Hiruditha — Java Developer / Software Engineer" width="100%">
-</picture>
+---
 
-<br/>
+<br>
+<p align='center'>
+<img src="https://komarev.com/ghpvc/?username=thimirah">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/github/followers/thimirah?style=social">&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+<br>
 
-<img src="https://raw.githubusercontent.com/ThimiraH/ThimiraH/main/lanyard.svg?v=1" alt="Thimira Hiruditha ID badge" width="220">
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
 
-<br/><br/>
+- 🔭 I’m currently working on **Stream Site Project**
 
-<a href="mailto:h.k.t.hiruditha@gmail.com">
-  <img src="https://img.shields.io/badge/Email-h.k.t.hiruditha%40gmail.com-ff2b3a?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d" alt="Email">
-</a>
-<a href="https://github.com/ThimiraH">
-  <img src="https://img.shields.io/badge/GitHub-ThimiraH-ff2b3a?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d" alt="GitHub">
-</a>
-<img src="https://komarev.com/ghpvc/?username=ThimiraH&label=Profile%20Views&color=ff2b3a&style=for-the-badge&labelColor=0d0d0d" alt="Profile views">
+- 🌱 I’m currently learning **Next.js**
 
-</div>
+- 🤝 I’m looking for help with **Software Engineers**
 
-<br/>
+- 💬 I'm an Undergraduate at **Birmingham City University**
 
-## About Me
+- 📫 How to reach me **thimirahiruditha@gmail.com**
 
-- 💻 Java Developer / Software Engineer who enjoys turning ideas into working software
-- 🌱 Currently sharpening skills across the full stack — from React front ends to MySQL/MongoDB-backed APIs
-- 🛠️ Comfortable moving between web (HTML, CSS, JavaScript, React, PHP, Node.js) and mobile (Android)
-- 📫 Reach me at **h.k.t.hiruditha@gmail.com**
-- ⚡ Quietly building cool things. 🚀
+</td>
+<td width="50%" align="center">
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+</td>
+</tr>
+</table>
 
-<br/>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="40" width="40" /></a>
+<a href="https://fb.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="" height="40" width="40" /></a>
+<a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="40" width="40" /></a>
+<a href="https://www.youtube.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="" height="40" width="40" /></a>
+<a href="https://discord.gg/" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Discord.svg" alt="vimukthi_." height="50" width="50" /></a>
+</p>
 
-## Tech Stack
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-0d0d0d?style=for-the-badge&logo=html5&logoColor=ff2b3a)
-![CSS3](https://img.shields.io/badge/CSS3-0d0d0d?style=for-the-badge&logo=css3&logoColor=ff2b3a)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=ff2b3a)
-![React](https://img.shields.io/badge/React-0d0d0d?style=for-the-badge&logo=react&logoColor=ff2b3a)
-![PHP](https://img.shields.io/badge/PHP-0d0d0d?style=for-the-badge&logo=php&logoColor=ff2b3a)
-![Android](https://img.shields.io/badge/Android-0d0d0d?style=for-the-badge&logo=android&logoColor=ff2b3a)
-![MySQL](https://img.shields.io/badge/MySQL-0d0d0d?style=for-the-badge&logo=mysql&logoColor=ff2b3a)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d0d0d?style=for-the-badge&logo=mongodb&logoColor=ff2b3a)
-![Node.js](https://img.shields.io/badge/Node.js-0d0d0d?style=for-the-badge&logo=nodedotjs&logoColor=ff2b3a)
-
-</div>
-
-<br/>
-
-## GitHub Stats
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/ThimiraH/ThimiraH/main/stats.svg?v=1" alt="Thimira's GitHub stats" width="49%">
-<img src="https://raw.githubusercontent.com/ThimiraH/ThimiraH/main/langs.svg?v=1" alt="Most used languages" width="49%">
-</div>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/ThimiraH/ThimiraH/main/trophies.svg?v=1" alt="GitHub trophies" width="100%">
-</div>
-
-<br/>
-
-## Contribution Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ThimiraH&theme=react-dark&bg_color=0d0d0d&color=f5f5f5&line=ff2b3a&point=ffffff&area=true&hide_border=true" alt="Contribution activity graph" width="100%">
-</div>
-
-<br/>
-
-## Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| [project-one](https://github.com/ThimiraH/project-one) | Short one-line description of what it does and why it matters. | Java · MySQL |
-| [project-two](https://github.com/ThimiraH/project-two) | Short one-line description of what it does and why it matters. | React · Node.js · MongoDB |
-| [project-three](https://github.com/ThimiraH/project-three) | Short one-line description of what it does and why it matters. | PHP · Android |
-
-<sub>Replace the rows above with your real pinned repositories.</sub>
-
-<br/>
-
-## Connect
-
-<div align="center">
-<a href="mailto:h.k.t.hiruditha@gmail.com"><img src="https://img.shields.io/badge/-Email-0d0d0d?style=flat-square&logo=gmail&logoColor=ff2b3a"/></a>
-<a href="https://github.com/ThimiraH"><img src="https://img.shields.io/badge/-GitHub-0d0d0d?style=flat-square&logo=github&logoColor=ff2b3a"/></a>
-</div>
-
-<br/>
-
-<div align="center">
-
-### Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThimiraH/ThimiraH/output/github-snake-dark.svg?v=1">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ThimiraH/ThimiraH/output/github-snake.svg?v=1">
-  <img src="https://raw.githubusercontent.com/ThimiraH/ThimiraH/output/github-snake.svg?v=1" alt="Contribution snake animation" width="100%">
-</picture>
-
-</div>
-
-<br/>
-
-<div align="center">
-<sub>Built with SVG + SMIL/CSS animation only — no JavaScript, no rate-limited third-party card services.</sub>
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=thimirah&layout=compact&show_icons=true&theme=tokyonight"
+        height="180"
+        alt="Top Languages"
+      />
+    </td>
+    <td align="center" width="50%">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=thimirah&show_icons=true&theme=tokyonight&rank_icon=github"
+        height="180"
+        alt="GitHub Stats"
+      />
+    </td>
+  </tr>
+</table>
